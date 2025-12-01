@@ -8,3 +8,8 @@ This project contains automated tests written using **JavaScript**, **Selenium W
 
 ```bash
 npm install
+
+### 2 Run Tests
+
+```bash
+npm test
