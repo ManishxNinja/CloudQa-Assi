@@ -1,6 +1,10 @@
-<!-- Simple install all dependencies -->
-## npm install
+# CloudQA Selenium Automation Test
 
-<!-- Run this tests by -->
+This project contains automated tests written using **JavaScript**, **Selenium WebDriver**, and **Mocha** for the CloudQA Automation Practice Form.
 
-## npm test
+## 🚀 How to Run the Tests
+
+### 1️⃣ Install Dependencies
+
+```bash
+npm install
